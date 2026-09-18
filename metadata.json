@@ -1,0 +1,6 @@
+{
+  "name": "FarmFlow AI",
+  "description": "Smart Agri-Market Intelligence, Net Realization Engine, and Shared Transport Optimizer for Indian farmers.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
